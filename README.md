@@ -33,14 +33,14 @@ There would be different types of coffee that can be selected which will have se
 
 1. It has a **“take”** option which enables the maintainer to take the money in the money box.
 
-1. It has a **“show”** option which enables the user to check the ingredients left in the coffee machine. There should be an “exit” option which stops the simulation.
+1. It has a **“show”** option which enables the user to check the ingredients left in the coffee machine. There should be an “exit” option that stops the simulation.
 
 1. It has an **“analytics”** option which will display the count of all the coffees it sold, amount it earned, ingredients it consumed.
 
 1. In last it has an **“exit”** option which stops the simulation.
 
 ## How it demonstrates OOPs features :
-In this project I've used many OOPs(Object Oriented Programming) concepts like :
+In this project, I've used many OOPs(Object Oriented Programming) concepts like :
 
     Classes and Objects
     Encapsulation
@@ -48,6 +48,13 @@ In this project I've used many OOPs(Object Oriented Programming) concepts like :
 
 Through OOPs features my project becomes more efficient, improved code readability, enhanced code reuseability
 
-## Demonstartion :
+## Demonstration :
 
-**Screenshots**
+**Screenshot** :
+![2023-07-04](https://github.com/prasantkumarsahu/coffee_machine_simulator/assets/104138444/390f80aa-5df5-4486-80cd-55d6af11e41e)
+
+**Video** :
+
+
+https://github.com/prasantkumarsahu/coffee_machine_simulator/assets/104138444/18dd9ba0-39dd-4cfb-8482-b1354121e538
+
